@@ -1,0 +1,29 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+
+name: api-master
+
+on:
+  push:
+    branches: ['master']
+
+jobs:
+  build:
+    runs-on: self-hosted
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+      - name: Set environment variables
+        run: |
+          echo "SERVER_HOST=${{ vars.SERVER_HOST }}" >> .env
+          echo "SERVER_PORT=${{ vars.SERVER_PORT }}" >> .env
+          echo "API_KEY=${{ vars.API_KEY }}" >> .env
+          echo "API_PREFIX=${{ vars.API_PREFIX }}" >> .env
+      - name: Install dependencies
+        run: npm ci
+      - name: Restart pm2
+        run: sudo pm2 restart hackathon

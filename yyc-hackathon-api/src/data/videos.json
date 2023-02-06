@@ -1,0 +1,39 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "name": "Ghost Lake",
+      "describtion": "",
+      "url": "http://3.98.129.103:4000/public/video/video0.mp4",
+      "eventDate": "Feb 05"
+    },
+    {
+      "id": 2,
+      "name": "Calgary Downtown",
+      "describtion": "Olympic Plaza ice skating,  ",
+      "url": "http://3.98.129.103:4000/public/video/video1.mp4",
+      "eventDate": "Feb 06"
+    },
+    {
+      "id": 3,
+      "name": "Christmas Lights at Spruce Meadows",
+      "describtion": "Christmas Lights at SpWant to make date night magical? Sipping hot chocolate under sparkling Christmas lights, whichis bound to give you that warm winter feeling! ✨ruce Meadows",
+      "url": "http://3.98.129.103:4000/public/video/video2.mp4",
+      "eventDate": "Feb 07"
+    },
+    {
+      "id": 4,
+      "name": "International Chrismas Market at Spruce Meadows",
+      "describtion": "Grab the family, a spicy hot chocolate and get your gift shopping started at one of the many magical Christmas markets in Calgary 🎁!",
+      "url": "http://3.98.129.103:4000/public/video/video3.mp4",
+      "eventDate": "Feb 08"
+    },
+    {
+      "id": 5,
+      "name": "Hanging out during winter",
+      "describtion": "Happy New Year to all you lovelies from Calgary",
+      "url": "http://3.98.129.103:4000/public/video/video4.mp4",
+      "eventDate": "Feb 09"
+    }
+  ]
+}

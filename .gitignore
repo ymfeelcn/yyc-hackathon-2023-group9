@@ -1,0 +1,6 @@
+./node_modules
+/node_modules
+./yyc-hackathon-api/node_modules
+/yyc-hackathon-api/node_modules
+./YYCHackathon2023-unity/Library
+/YYCHackathon2023-unity/Library

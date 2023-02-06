@@ -1,0 +1,54 @@
+{
+ "eventName": [
+  {
+   "name": "Open Mic Event",
+   "eventDate": "Jan 7 – Feb 5",
+   "eventPhoto": "https://www.google.ca/maps/vt/data=vKLg1ARsJql1RzlYuLaVSH7VhfrRZvfITt2N-lbjgDgL9TDcq_V3X8vvWdNCnO5Pynv9hDhuPyRSUZQE9LvH3XsM8Xpb4p_auEsoi4oDQ0cT9mCq?scale=2"
+  },
+  {
+   "name": "2023 High Performance Rodeo",
+   "eventDate": "Jan 16 – Feb 5",
+   "eventPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1DqdoKGDLJt4HiwqZi9yK4CzsuVvzZ1MFD935bTwtG6uB-RLglsRP_9FOsw&s"
+  },
+  {
+   "name": "The (R)evolution of Steve Jobs",
+   "eventDate": "Sat, Feb 4 – Fri, Feb 10",
+   "eventPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVsOrL7oT-YhT49T6wZsJC-xNPX_2B2Sva-X1bpp1pWLLPkBYIbWofNN9Gqg&s"
+  },
+  {
+   "name": "Open Mic Event",
+   "eventDate": "Jan 7 – Feb 6",
+   "eventPhoto": "https://www.google.ca/maps/vt/data=dbGdpXxUkjPuJ2w4Yh7ba6R54j3E5FIFu99fa4B8QOda15BV_NX3svOOsFYnZKm6RCCfIrlRMuCV_l6adXCQg12ko21GbJfI-qcXsffsOh7NTuhU?scale=2"
+  },
+  {
+   "name": "Mark Normand - Exclusive Concert Presentation",
+   "eventDate": "Thu, Feb 2 – Sat, Feb 4",
+   "eventPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSllWeZNjdFP1HNXU-fNTGYEfjMezBbqE-3BKsAMwFNKHWwJelWrK1wKFlQ&s"
+  },
+  {
+   "name": "TSwift Dance Party",
+   "eventDate": "Today, 4 – 8 PM",
+   "eventPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6A1CNiX_SQ7QKBLRJJdljvRag3Iz21UqYxhdEuSSx2w&s"
+  },
+  {
+   "name": "2023 House Band Auditions",
+   "eventDate": "Sat, Feb 4 – Sun, Feb 5",
+   "eventPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ_fb3nG8Q3Kt-KtTGkZTZWL2qJObQpVXVpWFyVCh4C-A5X-Rqzzta5b0F3g&s"
+  },
+  {
+   "name": "The Motorcycle Show Calgary",
+   "eventDate": "Thu, Feb 2 – Sat, Feb 4",
+   "eventPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGOWSwoJ-GiBLYrLpqmPg3wciaqwDteIcCb9zM4jY8ab_kj8kKvBmDC19zsw&s"
+  },
+  {
+   "name": "Calgary Heralds: Announcing the Good News Today",
+   "eventDate": "Fri, Feb 3 – Sat, Feb 4",
+   "eventPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFiqkDdEUYSTTwLlR2l9yy2_Mv9JCwvusb4o5PwJG2nSIqmlF1Qlni_smxvw&s"
+  },
+  {
+   "name": "Little Red Riding Hood",
+   "eventDate": "Today, 1 – 2 PM",
+   "eventPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHA1lrbIwuJh9ip871IxJq5xzsg8gG9Fwnt9niDDBhNRuHWHSj2gXbtswnxA&s"
+  }
+ ]
+}

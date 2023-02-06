@@ -1,0 +1,52 @@
+{
+  "name": "yyc-hackathon-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "check": "eslint --ignore-path .gitignore .",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "@types/jest": "^29.2.3",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.0",
+    "chalk": "^4.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.29.0",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "express-validator": "^6.14.2",
+    "jest": "^29.3.1",
+    "joi": "^17.7.0",
+    "jsonwebtoken": "^9.0.0",
+    "module-alias": "^2.2.2",
+    "mongoose": "^6.5.0",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.31.2",
+    "swagger-ui-express": "^4.6.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "_moduleAliases": {
+    "@src": "./src",
+    "@models": "./src/models",
+    "@modules": "./src/modules",
+    "@utils": "./src/utils",
+    "@public": "./src/public",
+    "@config": "./src/config.js",
+    "@assets": "./src/assets",
+    "@services": "./src/services"
+  },
+  "_moduleDirectories": [
+    "node_modules_custom"
+  ]
+}
